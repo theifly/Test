@@ -1,1 +1,1 @@
-https://github.com/theifly/Detect.git
+print('hello world')
