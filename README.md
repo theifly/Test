@@ -1,3 +1,3 @@
 # Test
 
-Just as learning example to make me comfotable about git.
+This pogect is just the learning example to make me comfotable about git.
